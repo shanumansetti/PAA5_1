@@ -9,7 +9,7 @@ The Coupon Acceptance Analysis project aims to leverage data visualization and p
 
 
 # Link to notebook
-
+https://github.com/shanumansetti/PAA5_1/blob/main/prompt.ipynb
 
 # Findings and recommendations
 
